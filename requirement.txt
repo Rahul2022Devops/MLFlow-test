@@ -1,0 +1,8 @@
+Flask
+ifaddr
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+zeroconf
+gunicorn
