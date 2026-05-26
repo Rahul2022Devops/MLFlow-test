@@ -1,4 +1,4 @@
-class Calculator:
+class calculator:
     def __init__(self):
         self.num1 = int(input("Enter the first number"))
         self.num2 = int(input("Enter the second number"))
@@ -20,7 +20,7 @@ class Calculator:
         print(reasult)
 
 if __name__ == "__main__":
-    cal = Calculator()
+    cal = calculator()
     cal.add()
     cal.substract()
     cal.multiply()
